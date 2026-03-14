@@ -1,4 +1,4 @@
-#  Hi, I'm rime27-arch
+#  Hi, I'm Rime Khazraoui
 
  **First-year Big Data & AI student** at [ENSA Tetouan](https://ensate.uae.ac.ma/) Tetouan, Morocco
  Passionate about building intelligent systems and exploring the frontiers of Artificial Intelligence
