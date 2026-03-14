@@ -1,6 +1,6 @@
 #  Hi, I'm rime27-arch
 
- **First-year Big Data & AI student** at [ENSA Tetouan](https://ensatetouan.ma/) Tetouan, Morocco
+ **First-year Big Data & AI student** at [ENSA Tetouan](https://ensate.uae.ac.ma/) Tetouan, Morocco
  Passionate about building intelligent systems and exploring the frontiers of Artificial Intelligence
  Currently learning **Full-Stack Web Development** and deepening my understanding of **Data Science fundamentals**
  Creative side: I enjoy **3D Rendering & Design** in my free time
