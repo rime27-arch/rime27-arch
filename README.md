@@ -51,13 +51,13 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 
 ###  Global Presence
 
-Track where your visitors come from (Wait 1 minute after pasting for it to show flags):
+
 
 [![Flag Counter](https://github-visitor-counter.vercel.app/api?username=rime27-arch&bg_color=00000000&text_color=ffffff&flag_style=heart)](https://github.com/ChanMeng666/github-visitor-counter)
 
 ---
 
-###  GitHub Trophies (Premium Look)
+###  GitHub Trophies 
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=rime27-arch&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
