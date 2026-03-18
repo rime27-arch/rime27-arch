@@ -54,9 +54,6 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 
 ---
 
-###  Global Visitor Badge
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rime27-arch.rime27-arch)](https://github.com/jwenjian/visitor-badge)
 
 
 
