@@ -39,18 +39,14 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 
 ![GitHub Metrics](https://raw.githubusercontent.com/rime27-arch/rime27-arch/main/github-metrics.svg)
 
+
 ---
+
 ###  Profile Analytics
 
 | **Total Views** | **Visitors Tracking** |
 | :---: | :---: |
 | ![Views](https://komarev.com/ghpvc/?username=rime27-arch&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rime27-arch.rime27-arch&color=f39c12) |
-
----
-
-###  GitHub Stats (Most Reliable)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rime27-arch&show_icons=true&theme=dracula)
 
 ---
 
