@@ -52,7 +52,6 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 ###  Global Presence
 
 
-
 [![Flag Counter](https://github-visitor-counter.vercel.app/api?username=rime27-arch&bg_color=00000000&text_color=ffffff&flag_style=heart)](https://github.com/ChanMeng666/github-visitor-counter)
 
 ---
