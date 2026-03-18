@@ -57,8 +57,6 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 
 ###  Real-time Map 
 
-Add this high-quality visitor map to see a visual cluster of your global audience:
-
 ![Visitor Map](https://map1.maploco.com/visitation/map.png?m=1&p=rime27-arch&c=000000)
 
 
