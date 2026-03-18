@@ -40,7 +40,6 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 ![GitHub Metrics](https://raw.githubusercontent.com/rime27-arch/rime27-arch/main/github-metrics.svg)
 
 ---
-
 ###  Profile Analytics
 
 | **Total Views** | **Visitors Tracking** |
@@ -49,16 +48,15 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 
 ---
 
-###  Global Presence
+###  GitHub Stats (Most Reliable)
 
-
-[![Flag Counter](https://github-visitor-counter.vercel.app/api?username=rime27-arch&bg_color=00000000&text_color=ffffff&flag_style=heart)](https://github.com/ChanMeng666/github-visitor-counter)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rime27-arch&show_icons=true&theme=dracula)
 
 ---
 
-###  GitHub Trophies 
+###  Global Visitor Badge
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=rime27-arch&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rime27-arch.rime27-arch)](https://github.com/jwenjian/visitor-badge)
 
 
 
