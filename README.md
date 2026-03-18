@@ -39,3 +39,41 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 
 ![GitHub Metrics](https://raw.githubusercontent.com/rime27-arch/rime27-arch/main/github-metrics.svg)
 
+
+# Visitor Hub for rime27-arch
+
+Welcome to the visitor tracking hub for your GitHub profile! Paste this into your profile README.
+
+###  Traffic Statistics
+
+| **Profile Views** | **Visitors by Country** |
+| :---: | :---: |
+| ![Total Views](https://komarev.com/ghpvc/?username=rime27-arch&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rime27-arch.rime27-arch) |
+
+---
+
+###  Global Presence
+
+Track where in the world your visitors are coming from with this real-time flag counter:
+
+[![Flag Counter](https://github-visitor-counter.vercel.app/api?username=rime27-arch&bg_color=00000000&text_color=ffffff&flag_style=heart)](https://github.com/ChanMeng666/github-visitor-counter)
+
+---
+
+###  Real-time Map (Premium Free Visual)
+
+Add this high-quality visitor map to see a visual cluster of your global audience:
+
+![Visitor Map](https://map1.maploco.com/visitation/map.png?m=1&p=rime27-arch&c=000000)
+
+*(Note: Map services like MapLoco or Clustrmaps provide dynamic images that update when people visit your page.)*
+
+---
+
+###  How to Add This?
+
+1. Go to your [GitHub Profile Repository](https://github.com/rime27-arch/rime27-arch) (create it if it doesn't exist).
+2. Edit the `README.md` file.
+3. Paste the markdown code above into the file.
+4. Save and commit!
+
