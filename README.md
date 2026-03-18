@@ -41,23 +41,26 @@ I am a motivated first-year engineering student specializing in **Big Data and A
 
 ---
 
-###  Traffic Statistics
+###  Profile Analytics
 
-| **Profile Views** | **Visitors by Country** |
+| **Total Views** | **Visitors Tracking** |
 | :---: | :---: |
-| ![Total Views](https://komarev.com/ghpvc/?username=rime27-arch&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rime27-arch.rime27-arch) |
+| ![Views](https://komarev.com/ghpvc/?username=rime27-arch&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rime27-arch.rime27-arch&color=f39c12) |
 
 ---
 
 ###  Global Presence
 
+Track where your visitors come from (Wait 1 minute after pasting for it to show flags):
+
 [![Flag Counter](https://github-visitor-counter.vercel.app/api?username=rime27-arch&bg_color=00000000&text_color=ffffff&flag_style=heart)](https://github.com/ChanMeng666/github-visitor-counter)
 
 ---
 
-###  Real-time Map 
+###  GitHub Trophies (Premium Look)
 
-![Visitor Map](https://map1.maploco.com/visitation/map.png?m=1&p=rime27-arch&c=000000)
+[![trophies](https://github-profile-trophy.vercel.app/?username=rime27-arch&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
